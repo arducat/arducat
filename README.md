@@ -4,7 +4,6 @@
 
 📚 Знаю: C++, Rust, Python  
 📖 Учу: D  
-🏤 Состою в FTeam  
 
 **Я сижу здесь:**  
 Codeberg: https://codeberg.org/arducat  
