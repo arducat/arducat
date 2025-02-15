@@ -13,4 +13,4 @@ Matrix: @arducat_matrix:matrix.org
  
 ## Статистика:
 
-![Тут должна быть статистика](https://github-readme-stats.vercel.app/api/top-langs/?username=arducat&theme=radical&layout=compact)
+![Тут должна быть статистика](https://github-readme-stats.vercel.app/api/top-langs/?username=arducat&theme=radical)
