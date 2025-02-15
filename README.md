@@ -6,6 +6,5 @@
 📖 Учу: D  
 
 **Я сижу здесь:**  
-Codeberg: https://codeberg.org/arducat  
 Mastodon: https://mastodon.social@arducat  
 Matrix: @arducat_matrix:matrix.org  
