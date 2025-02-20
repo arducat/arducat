@@ -16,3 +16,5 @@ Matrix: @arducat_matrix:matrix.org
 ## Статистика:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arducat&theme=radical&layout=compact" alt="Собственно, статистика" />
+
+!! Статистика может быть слегка outdated !!
