@@ -10,8 +10,8 @@
 Однако я не только программист, я еще и волшебник, работающий с Arch и Alpine Linux :D  
 
 **Я сижу здесь:**  
-Mastodon: https://mastodon.social/@arducat  
-Matrix: @arducat_matrix:matrix.org  
+Mastodon: https://mastodon.ml/@arducat
+Bluesky: https://bsky.app/profile/arducat.bsky.social
  
 ## Статистика:
 
