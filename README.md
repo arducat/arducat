@@ -12,6 +12,7 @@
 **Я сижу здесь:**  
 Mastodon: https://mastodon.ml/@arducat  
 Bluesky: https://bsky.app/profile/arducat.bsky.social  
+Telegram канал: https://t.me/arducat  
 
 ## One moment...
 Я перешел на свой локальный Forjego сервер. Все мои репозитории, кроме этого, всего лишь зеркало с моего локального сервера и сервера Foxity.  
